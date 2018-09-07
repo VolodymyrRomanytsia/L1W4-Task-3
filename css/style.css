@@ -1,0 +1,11 @@
+.container {
+	margin: auto;
+	width: 400px;
+	text-align: center;
+	font-size: 24px;
+
+}
+
+.highlight {
+	background-color: #78FFBB;
+}
